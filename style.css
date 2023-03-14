@@ -1,0 +1,20 @@
+*{
+    background: #c2e59c;  
+    background: -webkit-linear-gradient(to left, #3997e5, #c2e59c);
+    background: linear-gradient(to left, #3f98e1, #c2e59c); 
+}
+.capa{
+    margin: 40dvh ;
+    text-align: center;
+}
+
+#timer{
+    color: #fff;
+    background: #333;
+    padding:  0.7rem;
+    border: 0.3rem #64b3f4 solid;
+    border-style: ridge;
+}
+#timer:hover{
+    border: 0.3rem #c2e59c solid;
+}
